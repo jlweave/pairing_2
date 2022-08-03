@@ -1,6 +1,10 @@
-best_friend = "Bob"
-if best_friend == "Haku"
-  puts "I love my friend Haku!"
+bnumber = 90
+best_friend = "Haku"
+friend = "Sam"
+if number == 1
+  puts "I love my best friend " + best_friend
+elsif number < 1
+  puts "I love my friend " + friend
 else
-  puts "My friend " + best_friend + " is pretty good, but isn't Haku."
+  puts "Friends are great"
 end
